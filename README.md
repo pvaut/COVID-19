@@ -1,5 +1,5 @@
 
-# COVID-19 - Indicator correlator
+# Correlator of COVID-19 vs. Country Indicator
 
 This program performs a visual correlation analysis between two sets of factors, each of them present at a country level:
  1. Epidemiological metrics derived from https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
