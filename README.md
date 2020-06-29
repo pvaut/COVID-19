@@ -13,3 +13,5 @@ This program performs a visual correlation analysis between two sets of factors,
  
  Example visualisations:
  
+![World](example_images/World.png?raw=true "World")
+![Africa](example_images/Africa.png?raw=true "Africa")
