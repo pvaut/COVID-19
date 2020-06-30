@@ -12,6 +12,9 @@ This program performs a visual correlation analysis between two sets of factors,
  IMPORTANT NOTE: This program is intended as an exploratory analysis tool only. Keep in mind that correlation does not mean causality! 
  
  Example visualisations:
- 
+
+## World
 ![World](example_images/World.png?raw=true "World")
+
+## Africa
 ![Africa](example_images/Africa.png?raw=true "Africa")
